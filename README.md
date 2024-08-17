@@ -92,6 +92,7 @@ INSERT INTO `accounts` (`id`, `username`, `password`) VALUES
 ## English:
 
 # Server registration system GTA Connected on MySQL
+**English version:** in [release](https://github.com/alexanderbatrakov98/Registration-system-MySQL-/releases/tag/englishversion).
 
 ## Setup
 
